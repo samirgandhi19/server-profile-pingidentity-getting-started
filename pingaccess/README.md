@@ -3,4 +3,4 @@ This directory contains the data that is required to customize pingaccess contai
 
 ## Credentials
 User: Administrator
-Password: 2FederateM0re ( that's a zero numeral, not uppercase O )
+Password: 2Access
